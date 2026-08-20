@@ -539,7 +539,7 @@ st.markdown("""
 # ─────────────────────────────────────────────────────────────────────────────
 # INPUT
 # ─────────────────────────────────────────────────────────────────────────────
-st.markdown('<div class="search-card">', unsafe_allow_html=True)
+
 
 st.markdown('<div class="input-label">Research topic</div>', unsafe_allow_html=True)
 
@@ -568,7 +568,7 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-st.markdown("</div>", unsafe_allow_html=True)
+
 
 
 # ─────────────────────────────────────────────────────────────────────────────
