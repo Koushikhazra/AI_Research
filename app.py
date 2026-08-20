@@ -562,9 +562,9 @@ with col_button:
 st.markdown("""
 <div class="examples">
     <span class="example-title">Try</span>
-    <span class="example-chip">LLM agents in 2026</span>
-    <span class="example-chip">CRISPR gene editing</span>
-    <span class="example-chip">Fusion energy progress</span>
+    <span class="example-chip">IT Dept. In JGEC</span>
+    <span class="example-chip">Ai in 2026</span>
+    <span class="example-chip">India Under PM Modi</span>
 </div>
 """, unsafe_allow_html=True)
 
@@ -698,7 +698,7 @@ if r:
     st.markdown('<div class="section-title">Research results</div>', unsafe_allow_html=True)
 
     if "writer" in r:
-        st.markdown('<div class="report-card">', unsafe_allow_html=True)
+       
 
         st.markdown(
             """
